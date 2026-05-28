@@ -1,0 +1,61 @@
+# VS Code
+.vscode/
+
+# Build folders
+build/
+Debug/
+Release/
+out/
+
+# Object and binary files
+*.o
+*.obj
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+*.a
+*.lib
+
+# Executables
+*.exe
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# STM32CubeIDE
+.settings/
+.metadata/
+
+# Keil
+Objects/
+Listings/
+*.uvoptx
+*.uvguix.*
+
+# IAR
+settings/
+Debug/
+Exe/
+
+# Eclipse
+.project
+.cproject
+
+# OS files
+Thumbs.db
+.DS_Store
